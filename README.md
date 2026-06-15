@@ -19,19 +19,11 @@ If you use parts of the code, you must provide proper credit linking back to the
 
 Build your own version — don’t just copy.
 
-— Moncy Yohannan
+— Priyanshu Singh 
 
 ---
 
-## 🛠️ Instructions
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
-
----
 
 ## ⚙️ Tech Stack
 
